@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ImageClassify</string>
+    <string name="image_classify">Image Classify</string>
+    <string name="select_image">Select Image</string>
+    <string name="selected_image">SELECT IMAGE</string>
+    <string name="capture">CAPTURE</string>
+    <string name="predict">PREDICT</string>
+    <string name="result">Result:</string>
+    <string name="reset">Reset</string>
+</resources>
